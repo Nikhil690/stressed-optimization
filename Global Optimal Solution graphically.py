@@ -1,3 +1,5 @@
+#𝑓(𝑥) = −10𝐶𝑜𝑠(𝜋𝑥 − 2.2) + (𝑥 + 1.5)𝑥
+
 import numpy as np
 import matplotlib.pyplot as plt
 
