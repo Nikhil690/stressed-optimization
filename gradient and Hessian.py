@@ -1,3 +1,5 @@
+#𝑓(𝑥) = 100(𝑥2 − 𝑥1^2)^2 + (1 − 𝑥1)^2
+
 import numpy as np
 
 def objective_function(x):
